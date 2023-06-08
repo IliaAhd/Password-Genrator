@@ -78,8 +78,9 @@ body {
   justify-content: start;
   align-items: center;
   padding-left: 1rem;
+  transition: 0.3s;
 }
 
 .active.alert-container {
-  right: -200px;
+  right: -400px;
 }
